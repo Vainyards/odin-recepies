@@ -1,0 +1,39 @@
+body {
+    background-color: darkgrey;
+    
+}
+
+h1 {
+    color: blueviolet;
+    font-family: monospace;
+}
+
+h2 {
+    color: chartreuse;
+}
+
+a {
+    font-family: fantasy;
+    font-style: oblique;
+}
+
+p {
+    font-style: italic;
+    color: antiquewhite;
+}
+
+ol {
+    color: white;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+ ul {
+    background-color: white;
+    
+ }
+
+img {
+    width: 300px;
+}
+
